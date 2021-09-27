@@ -5,7 +5,7 @@
 body {
     margin: 0;
     padding: 0;
-    background: rgb(241, 232, 230);
+    background: rgb(149, 209, 147);
 }
 
 .navbar {
@@ -64,7 +64,7 @@ body {
 
 }
 
-@media(max-width: 400px) {
+@media(max-width: 550px) {
     .toggle-button {
         display: flex;
     }
